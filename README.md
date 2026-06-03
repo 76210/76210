@@ -21,6 +21,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)](https://github.com/76210)
 
 [![CodeChef](https://img.shields.io/badge/CodeChef-brown?style=for-the-badge\&logo=codechef)](https://www.codechef.com/users/khushboo76210)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge\&logo=leetcode)](https://leetcode.com/u/76210/)
 
 ---
 
